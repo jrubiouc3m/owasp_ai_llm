@@ -1,0 +1,16 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "OWASP AI LLM DFD TM",
+    "owner": "jrubiouc3m",
+    "description": "Diagrama DFD para TM de una posible arquitectura de referencia",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
